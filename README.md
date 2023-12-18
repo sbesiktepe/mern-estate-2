@@ -11,7 +11,8 @@ Welcome to RealEstateMERN, a full-stack web application built using the MERN sta
 - Real-time Updates
 - Messaging System
 - Transaction History
-- Perfectly handled loading and error states 
+- Perfectly handled loading and error states
+
   
 ## Technologies Used
 
@@ -23,6 +24,7 @@ Welcome to RealEstateMERN, a full-stack web application built using the MERN sta
    - Cookies has been used to manage sessions
    - React hooks, UseEffect,UseCallback,UseState ..
 - Backend: Node.js and Express.js for server-side logic and API endpoints.
+- All form data (including files) was sent from the frontend to the backend, and all files were saved in Firebase on the backend, and then all the listing data was saved to MongoDB. (Multer has been used)
 - Database: MongoDB for efficient and scalable data storage.
 - Authentication: Implement secure user authentication using JWT (JSON Web Tokens).
 - Image Storage : Firebase Storage has been used
