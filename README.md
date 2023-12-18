@@ -7,7 +7,6 @@ Welcome to RealEstateMERN, a full-stack web application built using the MERN sta
 - User Authentication
 - Property Listings
 - Search and Filter
-- Interactive Maps
 - User Dashboard
 - Real-time Updates
 - Messaging System
